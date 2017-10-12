@@ -10,6 +10,7 @@ set(config_module_list
 	#
 	# Board support modules
 	#
+	modules/px4_simulink_app
 	drivers/airspeed
 	drivers/blinkm
 	drivers/bmi160
